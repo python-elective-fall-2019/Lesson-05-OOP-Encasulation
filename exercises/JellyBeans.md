@@ -38,6 +38,6 @@ Add the functionallity of being able to write this code in the client.
     Where me and j2 are jelly objects
 ````
 
-You can already write ```` j == j2  ```` -> and get a return value of True or False. Create an implementation that when writing j == j2 checks if the mass of the 2 objects are alike.
+You can already write ```` j == j2  ```` -> and get a return value of True or False. Create an implementation that when writing ```` j == j2 ```` checks if the mass of the 2 objects are alike.
 
 

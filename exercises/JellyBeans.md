@@ -30,15 +30,16 @@ The class should also be able to deduct 2 jelly beans. If a gas like jelly bean 
 The object should be able to when asked tell its state.  
 
 #### X-tra assignemnets:
-The "gas like Jelly Beans" will over time gain a little mass. Small jelly fragments are lying around and can be added with the plus operator to. the fragments are not objects of the Jelly Bean Class but of another more simple class called Jelly_fragment. This class has a fixed mass of 1, and it should not be changed. If the Jelly Bean "Ghost" at some poit regain they old mass they are only allowed to keep "over time gained mass" corosponding to 2% of the original mass. If it succeceds it is discarded. 
+> The "gas like Jelly Beans" will over time gain a little mass. Small jelly fragments are lying around and can be added with the plus operator to. the fragments are not objects of the Jelly Bean Class but of another more simple class called Jelly_fragment. This class has a fixed mass of 1, and it should not be changed. If the Jelly Bean "Ghost" at some poit regain they old mass they are only allowed to keep "over time gained mass" corosponding to 2% of the original mass. If it succeceds it is discarded. 
 
-Add the functionallity of being able to write this code in the client. 
+> Add the functionallity of being able to write this code in the client. 
 ````python
     val = j2 in me
     Where me and j2 are jelly objects
 ````
-
-You can already write ```` me == j2  ```` -> and get a return value of True or False.   
+  
+  
+> You can already write ```` me == j2  ```` -> and get a return value of True or False.   
 Create an implementation that when writing ```` me == j2 ```` checks if the mass of the 2 objects are alike.
 Create an implementation that when writing ```` me < j2 ```` checks if the mass of 'me' is less than 'j2'.  
 Do the same for ````  >, !=, <=, >= ````  

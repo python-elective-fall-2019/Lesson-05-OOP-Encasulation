@@ -4,7 +4,7 @@
 Imagine a game where different jelly beans are floating around.   
 When they bump into each other they melt together and one of them gain mass, the other looses mass.  
 
-<img src="src/jellybean_art.png" width=100%>
+<img src="src/jellybean_art.png" width=100% style="border 1px solid #a10000">
 
 The old one does not dissapear but becomes a Ghost, its mass becomes 0 (maybe a little gas like state).  
 

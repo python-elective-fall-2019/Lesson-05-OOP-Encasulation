@@ -1,7 +1,7 @@
 # Jelly Beans  
 ## Exercise: Python Class, Protocols, Properties, Overload  
 
-Imagine a game where different sizes of jelly beans are floating around.   
+Imagine a game where different jelly beans are floating around.   
 When they bump into each other they melt together and one of them gain mass, the other looses mass.  
 
 ![](src/jellybean_art.png)

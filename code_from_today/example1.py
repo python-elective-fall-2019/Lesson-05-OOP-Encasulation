@@ -1,6 +1,6 @@
 class P:
     def __init__(self, name, alias):
-        self.__name = name       # public
+        self.__name = name       # private
         self.__alias = alias   # private
 
     # getter
@@ -12,6 +12,7 @@ class P:
     def name(self, name):
         if 'A' in name:
             self.__name = name
+
 
 """
     def getName(self):
